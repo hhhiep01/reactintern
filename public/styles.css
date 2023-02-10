@@ -58,14 +58,17 @@ left: 380px;
     margin-top: 30px;
     
 }
+.body_head {
+    width: 980px;
+}
 .body_head i{
     background-color: rgba(210, 210, 210, 0.4);;
     border-radius: 100%;
     width: 25px;
     height: 25px;
     padding-top: 5px;
-    padding-left: 5px;
-    margin-left: 690px;
+   padding-right: 3px;
+    
     
 }
 .body_head h1{
@@ -412,9 +415,7 @@ left: 715px;
     .body_head{
         max-width: 100%;
     }
-    .body_head i{
-        margin-left: 444px;
-    }
+   
     .header-text{
         width: 720px;
 height: 63px;
